@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pranav Prabu
+# Pranav Prabu M
 
 **Full Stack and AI Developer**  
 B.Tech Computer Science (Data Science and AI) · Dr. MGR Educational and Research Institute · Chennai
