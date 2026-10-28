@@ -5,12 +5,19 @@
 **Full Stack and AI Developer**  
 B.Tech Computer Science (Data Science and AI) · Dr. MGR Educational and Research Institute · Chennai
 
-I build full-stack apps and machine-learning products, from real-time learning games to fraud detection and cheminformatics. Open to web development and AI internships.
+I build full-stack apps and machine-learning products, from real-time learning games to fraud detection and cheminformatics. **1st place, Smart Systems Track, Yuva Megathon 2026** (IET, SRM Tiruchirappalli) with [SurgeShield](https://github.com/pranavprabu-19/SurgeShield---Fraud-Detection-). Open to web development and AI internships.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-prabu-6a3a372b2/)
 [![Email](https://img.shields.io/badge/Email-pranavprabu325%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavprabu325@gmail.com)
 
 </div>
+
+## Awards
+
+**1st place — Smart Systems Track, Yuva Megathon 2026**  
+36-hour national hackathon under YUVA: The National Tech Fest, organised by the IET at SRM Institute of Science and Technology, Tiruchirappalli (28–30 September 2026).
+
+Project: [SurgeShield](https://github.com/pranavprabu-19/SurgeShield---Fraud-Detection-) · [Certificate](https://github.com/pranavprabu-19/SurgeShield---Fraud-Detection-/blob/main/docs/awards/yuva-megathon-2026-first-place.jpg)
 
 ## About
 
@@ -57,7 +64,7 @@ I build full-stack apps and machine-learning products, from real-time learning g
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [DuelLearn](https://github.com/pranavprabu-19/H2S-Dual-Learn-Gamified-Platform-) | Real-time 1v1 learning game where players or an AI bot battle through questions, with ELO, XP, and Gemini-generated explanations. | React, Node.js, MongoDB, Socket.io, Gemini |
-| [SurgeShield](https://github.com/pranavprabu-19/SurgeShield---Fraud-Detection-) | Scores each payment in milliseconds and separates a genuine flash-sale surge from a coordinated fraud attack. | Python, FastAPI, Next.js, LightGBM, XGBoost |
+| [SurgeShield](https://github.com/pranavprabu-19/SurgeShield---Fraud-Detection-) | Scores each payment in milliseconds and separates a genuine flash-sale surge from a coordinated fraud attack. **1st place, Smart Systems Track, Yuva Megathon 2026.** | Python, FastAPI, Next.js, LightGBM, XGBoost |
 | [ToxScan](https://github.com/pranavprabu-19/CodeCure-Biohackathon) | Predicts Tox21-style toxicity risk from a molecule’s SMILES and explains the highest-risk assay. Research demo only. | Flask, RDKit, scikit-learn |
 
 ## Currently learning
